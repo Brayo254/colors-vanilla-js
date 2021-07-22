@@ -1,0 +1,23 @@
+{
+  "name": "colors-vanilla-js",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brayo254/colors-vanilla-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Brayo254.github.io/colors-vanilla-js.git",
+  "bugs": {
+    "url": "https://github.com/Brayo254/colors-vanilla-js/issues"
+  },
+  "description": ""
+}
